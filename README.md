@@ -115,6 +115,6 @@ For each artist, we store a unique identifier:
 - **Port:** `3308`  
 - **User:** `root`  
 - **Password:** `root`  
-- **Database name:** `youtube_lite`
+- **Database name:** `spotify`
 
 > 💡 You can use DBeaver or any preferred SQL client to explore, manage, and query the database structure.
